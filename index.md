@@ -6,8 +6,6 @@
 
 For more details see [Github](https://github.com/Uzi0603).
 
-<img src="D:\vscode\Uzi0603.github.io\头像.jpg" alt="头像" style="zoom:50%;" />
-
 ### Introduction
 
 I'm an undergraduate student of Artificial Intelligence Class of 2019 (19级智能班), in School of Computer Science and Technology [计算机科学与技术学院](https://www.cs.sdu.edu.cn/), Shandong University [山东大学](https://www.sdu.edu.cn/). 
