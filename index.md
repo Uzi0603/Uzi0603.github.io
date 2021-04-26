@@ -27,7 +27,7 @@ I'm an undergraduate student of Artificial Intelligence Class of 2019 (19级智�
   - [Machine Learning 机器学习](https://github.com/Uzi0603/machine-learning)
   - [Computer Networking 计算机网络](https://github.com/Uzi0603/computer-networking)
   - [Computer Graphics 计算机图形学](https://github.com/Uzi0603/computer-graphics)
-- [Operating System Concepts 操作系统](https://github.com/Uzi0603/operating-system-concepts)
+  - [Operating System Concepts 操作系统](https://github.com/Uzi0603/operating-system-concepts)
   
 - Sep 2020 - Jan 2021 大二上学期
   - [Computer Organization and Architecture 计算机组成原理](https://github.com/Uzi0603/computer-organization-and-architecture)
