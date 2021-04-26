@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Li Yang's Personal Pages
 
-You can use the [editor on GitHub](https://github.com/Uzi0603/Uzi0603.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+==A novice in programming.==
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Yang Li  李 阳**
 
-### Markdown
+For more details see [Github](https://github.com/Uzi0603).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Introduction
 
-```markdown
-Syntax highlighted code block
+I'm an undergraduate student of Artificial Intelligence Class of 2019 (19级智能班), in School of Computer Science and Technology [计算机科学与技术学院](https://www.cs.sdu.edu.cn/), Shandong University [山东大学](https://www.sdu.edu.cn/). 
 
-# Header 1
-## Header 2
-### Header 3
+- Email: preposterous@163.com
+- QQ; 1070180785
+- Address: Shandong University, Jimo, Tsingtao, China, 266237
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+- Regular College Course: Shandong University, Sep 2019 - Now
 
-**Bold** and _Italic_ and `Code` text
+### Repositories
 
-[Link](url) and ![Image](src)
-```
+- [Leetcode](https://github.com/Uzi0603/leetcode)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Mar 2021 - Now 大二下学期
+  - [Thinking and Practice in Programming 程序设计思维与实践](https://github.com/Uzi0603/Thinking-and-Practice-in-Programming)
+  - [Machine Learning 机器学习](https://github.com/Uzi0603/machine-learning)
+  - [Computer Networking 计算机网络](https://github.com/Uzi0603/computer-networking)
+  - [Computer Graphics 计算机图形学](https://github.com/Uzi0603/computer-graphics)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Uzi0603/Uzi0603.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Sep 2020 - Jan 2021 大二上学期
+  - [Computer Organization and Architecture 计算机组成原理](https://github.com/Uzi0603/computer-organization-and-architecture)
+  - [Database System Concepts 数据库系统概念](https://github.com/Uzi0603/database-system-concept)
+  - [Data Structures, Algorithms and Applications 数据结构与算法](https://github.com/Uzi0603/data-structure)
