@@ -1,4 +1,4 @@
-## Welcome to Li Yang's Personal Pages
+## Welcome to Li Yang's Personal Page
 
 ==A novice in programming==
 
