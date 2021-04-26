@@ -1,10 +1,12 @@
 ## Welcome to Li Yang's Personal Pages
 
-==A novice in programming.==
+==A novice in programming==
 
 **Yang Li  李 阳**
 
 For more details see [Github](https://github.com/Uzi0603).
+
+<img src="D:\vscode\Uzi0603.github.io\头像.jpg" alt="头像" style="zoom:50%;" />
 
 ### Introduction
 
