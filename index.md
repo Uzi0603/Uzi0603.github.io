@@ -20,7 +20,7 @@ I'm an undergraduate student of Artificial Intelligence Class of 2019 (19级智�
 
 ### Repositories
 
-- [Leetcode](https://github.com/Uzi0603/leetcode)
+- [Leetcode](https://github.com/Uzi0603/Leetcode)
 - Sep 2021 - Now 大三上学期
   - [Deep Learning 深度学习](https://github.com/Uzi0603/deep-learning)
 
