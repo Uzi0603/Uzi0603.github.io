@@ -4,7 +4,7 @@
 
 **Yang Li  李 阳**
 
-For more details see [Github](https://github.com/Uzi0603).
+For more details see [Github](https://github.com/Liesy).
 
 ### Introduction
 
